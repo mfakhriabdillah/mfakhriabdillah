@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfakhriabdillah
-- 👀 I’m interested in Product Development
-- 🌱 I’m currently learning Dart, Flutter, and Python
+- 👀 I’m interested in Product Development, DevOps, IT Security, and Data Engineering.
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on non-provit project
 - 📫 Please reach me on linkedin https://www.linkedin.com/in/fakhriabdillah
 
