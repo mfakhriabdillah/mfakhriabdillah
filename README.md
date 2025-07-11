@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fakhri Abdillah</h1>
 <h3 align="center">A passionate DevSecOps Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Codelite.ID](https://codelite.id)
+- 🔭 I’m currently working on [EIKON Technology](https://eikontechnology.com)
 
 - 🌱 I’m currently learning **DevOps, Security, and Programming**
 
