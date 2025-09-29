@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [mfakhriabdillah.my.id](mfakhriabdillah.my.id) and my Medium Page - [https://medium.com/@mfakhriabdillah](https://medium.com/@mfakhriabdillah)
 
-- 📫 How to reach me **fakhriabdillah37@gmail.com**
+- 📫 You can reach me at **fakhriabdillah37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
