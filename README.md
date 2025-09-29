@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps, Security, and Programming**
 
-- 📝 I regularly write articles on [mfakhriabdillah.my.id](mfakhriabdillah.my.id)
+- 📝 I regularly write articles on [mfakhriabdillah.my.id](mfakhriabdillah.my.id) and my [https://medium.com/@mfakhriabdillah](https://medium.com/@mfakhriabdillah)
 
 - 📫 How to reach me **fakhriabdillah37@gmail.com**
 
